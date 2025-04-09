@@ -3,5 +3,5 @@ Instructions:
 
 Controls:
 * F5 - Start/Resume
-* F9 - Force Stop
 * F8 - Pause
+* F9 - Force Close Script
